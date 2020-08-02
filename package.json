@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "name": "data-camp-scraping",
+  "description": "Projeto para raspar informações de cursos da dataCamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "scrap": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akira-fukue/data-camp-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akira-fukue/data-camp-scraping/issues"
+  },
+  "homepage": "https://github.com/akira-fukue/data-camp-scraping#readme"
+}
